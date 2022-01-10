@@ -5,5 +5,6 @@ Works on this repository are intended for display / reference / education ONLY. 
 without being modified. No exceptions.
 
 OK - Copying code, integrating it into your commercial or non-commercial project, modifying it for your purposes.
+
 NOT OK - Taking compiled code / applications, trying to sell them on a platform like Steam. Please don't be a scumbag - These are supposed to be for the enjoyment of the general 
 public.
